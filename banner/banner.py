@@ -40,3 +40,4 @@ class Banner(object):
             cprint(banner, 'magenta', attrs=['bold'])
 
         except ImportError as ie:
+by BNR
